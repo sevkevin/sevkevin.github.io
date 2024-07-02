@@ -1,4 +1,4 @@
-# 苏桪 个人博客 :link: https://sevkevin.github.io 
+# Kuro 个人博客 :link: https://sevkevin.github.io 
 ### :page_facing_up: [1](https://sevkevin.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 16 
